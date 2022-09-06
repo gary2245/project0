@@ -4,6 +4,7 @@ public class Main {
         //tests that the constructor of status and stats works
         //status constructor automatically fixes inputs
         //stats constructor throws error if wrong input
+        //bah blah
        
         System.out.println("STATS AND STATUS CONSTRUCTOR TEST");
         Stats stats1 = new Stats(10,5,5);
